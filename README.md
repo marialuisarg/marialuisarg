@@ -1,16 +1,25 @@
-### Hi there 👋
+## hi, I'm Maria! 👋🏻
 
-<!--
-**marialuisarg/marialuisarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student currently based in Juiz de Fora (MG), Brazil.       
+my pronouns are **she/her** and you can talk to me in portuguese or english (hopefully also in german, in the very distant future).
+ 
+  🚀 | I'm working at [Code Jr](https://www.codejr.com.br/)   
+  💻 | I'm studying PHP and data structures in C++  
+  👀 | in my repositories you'll probably find stuff I used to study and my (very few) personal projects  
+  📧 | you can reach me at marialuisa@ice.ufjf.br or at my [twitter](https://twitter.com/riolinux) | [instagram](https://www.instagram.com/marialuisarg_/) | [linkedin](https://www.linkedin.com/in/maria-lu%C3%ADsa-riolino-guimar%C3%A3es/)
 
-Here are some ideas to get you started:
+✨ besides tech, I love to talk about books, travel, education and everything related to pop culture!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<br>
+<a href="https://github.com/marialuisarg">
+  <img width="auto" height="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=marialuisarg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/marialuisarg">
+  <img width="auto" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialuisarg&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
