@@ -3,9 +3,9 @@
 I am a Computer Science student currently based in Juiz de Fora (MG), Brazil.       
 my pronouns are **she/her** and you can talk to me in portuguese or english (hopefully also in german, in the very distant future).
 
-  💼 | I'm a RPA developer at [Smarthis](https://smarthis.com/) 
+  💼 | I'm a RPA developer intern at [Smarthis](https://smarthis.com/) 
   
-  💻 | I'm currently studying vehicle routing problems with drones 
+  💻 | I'm currently studying optimization models for vehicle routing problems with trucks and drones 
   
   💖 | I'm a volunteer at [Meninas Digitais UFJF](https://www.instagram.com/meninasdigitaisufjf/), trying to increase the number of girls in STEM
   
